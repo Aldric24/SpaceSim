@@ -1,6 +1,6 @@
 # Space Simulator Readme
 
-This document provides an overview of the mechanics and environments in the space simulator.
+A pet project to test my skills at programming outer space physics charactersitics and orbital mechanics.
 
 ## Core Mechanics
 
