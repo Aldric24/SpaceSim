@@ -67,3 +67,6 @@ The simulator includes the Sun and four planets with unique environmental charac
 *   The lifetime of meteors can be controlled.
 *   UI elements display the spaceship's velocity and the current planet or "Space."
 *   Gizmos are used to visualize gravity fields, orbits, and raycasts in the editor.
+
+## Gameplay Footage 
+https://drive.google.com/file/d/1Lx6eXEz9zlumJXJL3Vpb6JZjY1Vorq2X/view?usp=sharing
